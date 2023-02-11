@@ -1,0 +1,81 @@
+h1{
+    font-family: 'IBM Plex Sans', sans-serif;
+
+
+}
+p{
+    font-family: 'IBM Plex Sans', sans-serif;
+    border: 5px lightblue; 
+    color: red; 
+    font-size: 25px;
+    border-style: inset;
+    
+}
+body{
+    background-image:url(bidenshoutrevised.jpg);
+    background-size:auto
+   
+
+
+}
+#image1{
+    size: 20px;
+    
+    border-radius: 8px;
+    max-width: 100%;
+  height: auto;
+
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    border: pink;
+    border-style: inset;
+    border-width: 10px;
+}
+  h1{
+    color: red;
+    font-size: 70px;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgba(128, 0, 0, 1);
+    
+    
+}
+  a:hover{
+    color: darkred;
+
+
+}
+  a:active{
+    color: cornsilk;
+
+
+} 
+a{
+    border: 20px;
+    border-color: black;
+background-color: gray; 
+
+}   
+button{
+    background-color: #c73e2c;
+
+
+}
+button:hover{
+    background-color: darkred;
+
+
+}
+button:active{
+    background-color: crimson;
+
+}
+img:hover{
+    border-color: black;
+    filter:contrast(5);
+
+
+}
