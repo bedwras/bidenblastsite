@@ -4,11 +4,10 @@ h1{
 
 }
 p{
-    font-family: 'IBM Plex Sans', sans-serif;
-    border: 5px lightblue; 
+    font-family: 'IBM Plex Sans', sans-serif; 
     color: red; 
     font-size: 25px;
-    border-style: inset;
+    
     
 }
 body{
