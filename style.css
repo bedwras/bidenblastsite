@@ -9,6 +9,7 @@ p{
     font-size: 25px;
     
     
+    
 }
 body{
     background-image:url(bidenshoutrevised.jpg);
@@ -82,5 +83,13 @@ h6{
     color: red;
     font-size: 15px;
     font-family: 'IBM Plex Sans', sans-serif;
+
+}
+#bidencaption{
+    color: crimson;
+    font-size: 20px;
+    
+
+
 
 }
