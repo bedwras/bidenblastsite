@@ -69,10 +69,11 @@ h6{
 }
 #twitterbtn{
     background-color: #139ae8;
-    border-color: #139ae8;   
+    border-color: #139ae8;
+    color: white;   
 }
 #twitterbtn:hover{
-    background-color: #117cba;
+    background-color: #139ae8;
     border-color:#117cba;
 }
 #twitterbtn:active{
