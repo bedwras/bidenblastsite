@@ -33,8 +33,9 @@ img{
     border-style: inset;
     border-width: 10px;
 }
-  a:hover{
+a:hover{
     color: darkred;
+    
 }
   a:active{
     color: cornsilk;
@@ -50,7 +51,8 @@ background-color: gray;
 }
 #redbtn:hover{
     background-color: darkred;
-    border-color:darkred
+    border-color:darkred;
+    box-shadow: rgba(171, 35, 35, 0.678) 0px 5px 15px;
 }
 #redbtn:active{
     background-color: #690404;
@@ -77,6 +79,7 @@ h6{
 #twitterbtn:hover{
     background-color: #139ae8;
     border-color:#117cba;
+    box-shadow: #139ae8 0px 5px 15px;
 }
 #twitterbtn:active{
     background-color: #054185;
