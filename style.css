@@ -82,17 +82,14 @@ h6{
 }
 hr{
     color: red;
-
-
 }
 #menacingtext{
     color: red;
     text-shadow: 3px 3px 3px rgba(128, 1, 0, 1);    
     font-size: 30px;
-
 }
 img:active{
     border-color:maroon;
     filter:contrast(15);
-    filter:saturate(15)
+    filter:saturate(15);
 }
