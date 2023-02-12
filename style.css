@@ -92,7 +92,7 @@ hr{
 
 }
 img:active{
-    border-color: black;
+    border-color:maroon;
     filter:contrast(15);
     filter:saturate(15)
 }
