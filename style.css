@@ -31,7 +31,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 25%;
-    border: pink;
+    border: #ed7009;
     border-style: inset;
     border-width: 10px;
 }
@@ -59,23 +59,24 @@ a{
 background-color: gray; 
 
 }   
-button{
+#redbtn{
     background-color: #c73e2c;
-
+    border-color: transparent;
 
 }
-button:hover{
+#redbtn:hover{
     background-color: darkred;
 
 
 }
-button:active{
+#redbtn:active{
     background-color: crimson;
 
 }
 img:hover{
     border-color: black;
     filter:contrast(5);
+    filter:saturate(5)
 
 
 }
@@ -93,3 +94,19 @@ h6{
 
 
 }
+#twitterbtn{
+    background-color: #139ae8;
+    border-color: transparent;
+    
+}
+#twitterbtn:hover{
+    background-color: #117cba;
+    border-color:#117cba
+
+}
+#twitterbtn:active{
+    background-color: #0b6396;
+
+
+}
+
