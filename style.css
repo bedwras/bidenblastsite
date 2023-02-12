@@ -1,22 +1,19 @@
-h1{
+#bidenblast{
     font-family: 'IBM Plex Sans', sans-serif;
-
-
+    color: red;
+    font-size: 70px;
+    text-align: center;
+    text-shadow: 3px 3px 3px rgba(128, 0, 0, 1); 
 }
 p{
     font-family: 'IBM Plex Sans', sans-serif; 
     color: red; 
-    font-size: 25px;
-    
-    
+    font-size: 25px;      
     
 }
 body{
     background-image:url(bidenshoutrevised.jpg);
     background-size:auto
-   
-
-
 }
 #image1{
     size: 20px;
@@ -24,89 +21,65 @@ body{
     border-radius: 8px;
     max-width: 100%;
   height: auto;
-
 }
 img {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 25%;
-    border: #ed7009;
+    border: red;
     border-style: inset;
     border-width: 10px;
 }
-  h1{
-    color: red;
-    font-size: 70px;
-    text-align: center;
-    text-shadow: 3px 3px 3px rgba(128, 0, 0, 1);
-    
-    
-}
   a:hover{
     color: darkred;
-
-
 }
   a:active{
     color: cornsilk;
-
-
 } 
 a{
     border: 20px;
     border-color: black;
 background-color: gray; 
-
 }   
 #redbtn{
     background-color: #c73e2c;
-    border-color: transparent;
-
+    border-color: #c73e2c;
 }
 #redbtn:hover{
     background-color: darkred;
-
-
+    border-color:darkred
 }
 #redbtn:active{
-    background-color: crimson;
-
+    background-color: #690404;
 }
 img:hover{
     border-color: black;
     filter:contrast(5);
     filter:saturate(5)
-
-
 }
 h6{
     color: red;
     font-size: 15px;
     font-family: 'IBM Plex Sans', sans-serif;
-
 }
 #bidencaption{
     color: crimson;
-    font-size: 20px;
-    
-
-
-
+    font-size: 19px;
 }
 #twitterbtn{
     background-color: #139ae8;
-    border-color: transparent;
-    
+    border-color: #139ae8;   
 }
 #twitterbtn:hover{
     background-color: #117cba;
-    border-color:#117cba
-
+    border-color:#117cba;
 }
 #twitterbtn:active{
-    background-color: #0b6396;
+    background-color: #054185;
+}
+hr{
+    color: red;
 
 
 }
-
