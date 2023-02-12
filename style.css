@@ -91,3 +91,8 @@ hr{
     font-size: 30px;
 
 }
+img:active{
+    border-color: black;
+    filter:contrast(15);
+    filter:saturate(15)
+}
