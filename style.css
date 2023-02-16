@@ -20,7 +20,7 @@ body{
 }
 #image1{
     height: 100%;
-     height: auto;
+     height: 150%;
      position: relative;
      background-position: center center;
      background-repeat: no-repeat; background-size: contain;
