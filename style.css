@@ -67,6 +67,7 @@ background-color: gray;
 }
 #redbtn:active{
     background-color: #690404;
+    box-shadow: rgba(171, 35, 35, 0.678) 0px 5px 15px;
 }
 img:hover{
     border-color: black;
