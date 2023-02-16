@@ -19,14 +19,11 @@ body{
     background-attachment: fixed;
 }
 #image1{
-    size: 100% 100%;
-    background-size: 100% 100%;
-    border-radius: 8px;
     height: 100%;
      height: auto;
      position: relative;
      background-position: center center;
-     background-repeat: no-repeat; background-size: cover;
+     background-repeat: no-repeat; background-size: contain;
      background-attachment: fixed;
      background-size: cover;
      
