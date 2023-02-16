@@ -23,7 +23,7 @@ body{
      height: 150%;
      position: relative;
      background-position: center center;
-     background-repeat: no-repeat; background-size: contain;
+     background-repeat: no-repeat;
      background-attachment: fixed;
      background-size: cover;
      
