@@ -1,2 +1,2 @@
 # bidenblastsite
-first project
+first project. its garbage.
